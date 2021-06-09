@@ -4,3 +4,5 @@
   </a>
 </h1>
 <p align="center">A curation of awesome tools and projects built by Ugandan developers :fire:.</p>
+
+Check out our Code of Conduct if you want to contribute
