@@ -5,4 +5,4 @@
 </h1>
 <p align="center">A curation of awesome tools and projects built by Ugandan developers :fire:.</p>
 
-Check out our [Code of Conduct](https://github.com/oscakampala/made-in-uganda.git) before you can contribute
+Check out our [Community Code of Conduct](https://github.com/oscakampala/made-in-uganda.git) before you can contribute
