@@ -26,3 +26,10 @@ Here is the demo link: [https://vaccination-centers.herokuapp.com](https://vacci
 A Windows Service that automatically runs in the background of your Windows OS Device to routinely clean up Junk files & improve performance, without you having to do it manually every time.
 
 Link: [https://github.com/RonnieLutaro/Windows-Junk-Cleaner-Service](https://github.com/RonnieLutaro/Windows-Junk-Cleaner-Service)
+
+3. Community Hub
+
+A complaint aggregation platform for complaints made by people in the community to the local government.
+
+Link: [https://community-hub-blue.vercel.app/](https://community-hub-blue.vercel.app/)
+Contribution link : [https://github.com/OSCA-Kampala-Chapter/community-hub](https://github.com/OSCA-Kampala-Chapter/community-hub)
