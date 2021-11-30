@@ -19,3 +19,9 @@ A simple web application showing COVID-19 vaccination and testing centers in Uga
 ![](https://github.com/stuartelimu/vaccination-centres/blob/master/docs/screenshot.png)
 
 Here is the demo link: [https://vaccination-centers.herokuapp.com](https://vaccination-centers.herokuapp.com)
+
+1. Windows Junk Cleaner Service
+
+A Windows Service that automatically runs in the background of your Windows OS Device to routinely clean up Junk files & improve performance, without you having to do it manually every time.
+
+Link: [https://github.com/RonnieLutaro/Windows-Junk-Cleaner-Service](https://github.com/RonnieLutaro/Windows-Junk-Cleaner-Service)
