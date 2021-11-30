@@ -16,11 +16,12 @@ To contribute check out our [contributors guides document](https://github.com/os
 A simple web application showing COVID-19 vaccination and testing centers in Uganda. It uses [OpenStreetMaps](https://openstreetmap.org/) to show the different centers on a map of Uganda. It's written using Django, a Python web framework.
 
 #### Demo
+
 ![](https://github.com/stuartelimu/vaccination-centres/blob/master/docs/screenshot.png)
 
 Here is the demo link: [https://vaccination-centers.herokuapp.com](https://vaccination-centers.herokuapp.com)
 
-1. Windows Junk Cleaner Service
+2. Windows Junk Cleaner Service
 
 A Windows Service that automatically runs in the background of your Windows OS Device to routinely clean up Junk files & improve performance, without you having to do it manually every time.
 
