@@ -19,6 +19,10 @@ A simple web application showing COVID-19 vaccination and testing centers in Uga
 
 ![](https://github.com/stuartelimu/vaccination-centres/blob/master/docs/screenshot.png)
 
+#### Link to Contribute to the project
+
+Contribute here - [https://github.com/stuartelimu/vaccination-centres](https://github.com/stuartelimu/vaccination-centres)
+
 Here is the demo link: [https://vaccination-centers.herokuapp.com](https://vaccination-centers.herokuapp.com)
 
 2. Windows Junk Cleaner Service
