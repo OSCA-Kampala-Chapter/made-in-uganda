@@ -62,3 +62,11 @@ A set of utils to build custom fully-functional URL Shortner in Django
 Link: [https://pypi.org/project/django-urlshortner/](https://pypi.org/project/django-urlshortner/)
 
 Contribution link : [https://github.com/jim-junior/django-urlshortner](https://github.com/jim-junior/django-urlshortner)
+
+### 7. `ugaddress`
+
+The `ugaddress` package helps you access Districts for specific regions in Uganda.
+ 
+Link: [https://github.com/open-ug/ugaddress](https://github.com/open-ug/ugaddress)
+
+Contribution link : [https://github.com/open-ug/ugaddress](https://github.com/open-ug/ugaddress)
